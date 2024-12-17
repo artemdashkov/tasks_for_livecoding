@@ -1,2 +1,5 @@
-list_1 = [1,2,3,4]
-print(list_1[1:])
+dict_1 = {1:'a',
+          2:'b',
+          3:'c'}
+
+print(sum(dict_1))
