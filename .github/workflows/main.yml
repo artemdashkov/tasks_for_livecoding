@@ -36,4 +36,4 @@ jobs: # Определяет набор заданий, которые буду�
             git config --local user.name "GitHub Actions"  
             git add .  
             git commit -m "Apply Black formatting" || echo "No changes to commit"  
-            git push "https://${{ secrets.GITHUB_TOKEN }}:x-oauth-basic@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF}
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
