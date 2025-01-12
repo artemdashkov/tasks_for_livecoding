@@ -28,4 +28,4 @@ jobs: # Определяет набор заданий, которые буду�
 
       - name: Formatter
         run: |  
-          black .\livecoding_tasks\_example_2.py
+          black .\\livecoding_tasks\\_example_2.py
