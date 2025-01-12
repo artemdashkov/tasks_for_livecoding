@@ -1,0 +1,35 @@
+name: CI # имя рабочего процесса
+
+on: # Определяет события, которые запускают рабочий процесс.
+  push:
+    branches:
+      - main  # Запускайте процесс при пуше в ветку main
+  pull_request:
+    branches:
+      - main  # Запускайте процесс при создании pull request в ветку main
+
+jobs: # Определяет набор заданий, которые будут выполняться. У нас есть одно задание: build
+  build:
+    runs-on: ubuntu-latest  # Указывает операционную систему, на которой будет выполняться задание. Здесь используется ubuntu-latest
+
+    steps: # Каждый шаг представляет собой отдельную задачу, которая будет выполнена в рамках задания. В данном примере:
+      - name: Checkout code # Использует встроенное действие для клонирования кода из репозитория.
+        uses: actions/checkout@v2  # Клонируем репозиторий
+
+      - name: Set up Python # Устанавливает нужную версию Python.
+        uses: actions/setup-python@v2  # Устанавливаем Python
+        with:
+          python-version: '3.9'  # Указываем версию Python
+
+      - name: Install dependencies # Устанавливает зависимости, указанные в requirements.txt
+        run: |  
+          python -m pip install --upgrade pip  
+          pip install -r requirements.txt  # Устанавливаем зависимости из requirements.txt  
+
+      - name: Lint code # Устанавливает flake8 и проверяет код на наличие ошибок.
+        run: |
+          flake8 .  # Проверяем код в текущей директории  
+
+      - name: Formatter
+        run: |  
+          black .\livecoding_tasks\_example_2.py
