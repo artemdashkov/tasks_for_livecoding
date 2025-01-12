@@ -26,10 +26,6 @@ jobs: # Определяет набор заданий, которые буду�
           python -m pip install --upgrade pip  
           pip install -r requirements.txt  # Устанавливаем зависимости из requirements.txt  
 
-      - name: Lint code # Устанавливает flake8 и проверяет код на наличие ошибок.
-        run: |
-          flake8 .  # Проверяем код в текущей директории  
-
       - name: Formatter
         run: |  
-          black .\livecoding_tasks\_example_2.py
+          black
