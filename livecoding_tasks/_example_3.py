@@ -1,6 +1,4 @@
-list_1 = list(range(1001)) # [0, 1, 2, ... 1000]
-index_lower = list_1[0] # 0
-index_higher = list_1[-1] # 1000
+my_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-len_list = len(list_1[index_lower:index_higher]) // 2
-print(len_list)
+print(my_list[-5:-1])
+print(my_list[-1:-5:-2])
