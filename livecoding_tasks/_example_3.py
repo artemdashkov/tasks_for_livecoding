@@ -1,7 +1,5 @@
-string = "string"
-string_2 = "other"
+import random
 
-sub_string = "string"
+a = random.sample([1,2,3,4,5,6], 3)
 
-if sub_string in (string, string_2):
-    print("True")
+print(a)
