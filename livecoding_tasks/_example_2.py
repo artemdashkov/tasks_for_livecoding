@@ -1,12 +1,18 @@
-from selenium.webdriver.common.by import By
+from pathlib import Path
+from tempfile import TemporaryDirectory
+import time
+import os
 
 
-def funct_1(a, b):
-    return a + b
+current_folder = os.getcwd()
+name_folder = "Temp"
 
+print(current_folder)
 
-asdasdfasdrae = 1
-RISK_MANAGEMENT_TOOLS_BLOCK_LOCATOR = (
-    By.CSS_SELECTOR,
-    "[data-type='banner_in_body_block'] [class='grid_grid__2D3md grid_gMdLg__9Xp_H'] >.grid_grid__2D3md:nth-child(6)",
-)
+def new_method():
+    with TemporaryDirectory(dir=current_folder) as db_dir:
+        print(db_dir)
+        time.sleep(10)
+
+new_method()
+
