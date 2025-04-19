@@ -1,0 +1,949 @@
+The system shall apply a mechanism to establish proof of identities to verify who a particular user is
+The system shall provide Bluetooth authentication so that users do not need to disable laptop authentication asThey have to frequently unlockThe laptop during office working hours
+The system shall allow a user to use Bluetooth to enable smartphone that communicates with a laptop over a short-range wireless link 
+The system shall allow pairing of smartphone withThe laptop 
+The system shall offer a user-friendly UI for easy interfacing so that less literate patients can also use it andThe buttons are clearly labeled large enough and visible Usability  
+The system has very few interfaces that it does not confuse users asThey advance intoThe system
+The system shall support at least 200 concurrently connected users 
+The system should maintain basic patient information and permissions on a central server 
+The system shall allow new accounts for patients medical centres and health practitioners to be created 
+The system capture and store users’ fingerprint template atThe initial signing in 
+The system should be able to match fingerprint at login 
+The system should allow users to store critical information such as allergies and conditions on a central server 
+The system should allow certified medical facilities to access critical patient information as needed 
+The system shall maintain full patient medical records in an encrypted format on a server 
+The system shall provide a common API for health information systems to update and read records 
+The system shall allow approved certified health providers to append information intoThe encrypted central server 
+The system shall allow health care providers to accessThe system through a screen based software application
+The system shall allow individual facility  servers to remain unaffected whenThe central server fails 
+The system shall ensure thatThe central server remain unaffected whenThe institutes system fails 
+The system shall enforce encryption on all files communication channels and backups 
+The system shall allow for access levels to be implemented on patient information 
+The system shall provide audit trails when required 
+The system should be able to sniffThe traffic to and fromThe network in real time’ 
+The system should be able to analyzeThe network traffic and detects intrusion attacks and threats toThe network
+The system should be able to warnThe network officers aboutThe possible occurrence of an intrusion attack and provides information regarding that attack 
+The system should be able to block traffic to and fromThe network that is identified to be potentially malicious
+The system should be able to provide reports monthly regardingThe anomalies detected 
+The system should be able to provide visualization in terms of graphs 
+The system should be able to monitorThe network in real time
+The system shall be developed in python and java languages makingThe program portable Ie platform independent The system is easy to transfer from one hardware and/or software system environment to another 
+The system guarantees reliability and availability becauseThe tools used in developingThe system (Apache Kafka and Apache Storm) allowsThe system to be resilient to failure and to be available allThe time 
+The system will reduceThe amount of time in which similar system take in processing data  
+This system will be doing near real time anomaly detection instead of batch processing hence it will give results almost instantly  
+The system is effective because it will detect normal attacks which current systems do not detect
+The system does not use much hardware and software hence it is not costly to maintainThe system andThe system does not require maintenance regularly  
+The system does not need frequent updates to its signatures as it will be learning on its own and updating its signatures on its own 
+The system should ensure thatThere is maximum confidentiality and safety assurance onThe information  
+The system should allow only those who are authorized to used and accessThe system andThey will have to log in first to useThe system 
+The user interface includes GUI (Graphic User Interface) which contains all basic plug ins that constituteThe basic functions ofThe program  
+The system shall have a log in screen to allowThe network administrator to log intoThe system
+The system shall have a working environment which isThe main screen which will allowThe user to monitorThe network 
+The system will showThe alert messages in case an anomaly has been detected and it will also show a panel of logs ofThe anomaly detected  
+The system’s main screen will also contain tabs for HELP and Static Analysis ofThe network 
+The system shall have log in and logout capabilities which can be seen asThe line of security which most systems should possess for authentication and accountability purposes 
+The system shall have imaging ability so as to make a copy ofThe information contained onThe mobile device which will be used duringThe forensics process asThe test data source 
+The system shall have extraction modules that will be able to take out information fromThe image that has been created 
+The system shall have analysis module that will use metadata contained withThe extracted information detect location data so as to create a movement map from this information 
+The system shall have high performance with respect to its responsiveness and its ability to maintain stability when requested to deal with a particular workload  
+The system shall have a higher RAM size to increaseThe computers processing resources during imaging and extraction stages 
+The system shall implement input validation to help in increasing fault tolerance and ultimately reliability 
+The system shall ensureThe hashing and extraction modules are both easy to use and have a user manual explaining howThey work and whyThey are incorporated intoThe system 
+The system shall have capacity to handle complex algorithms as well as huge amounts of data while requiring high speeds of execution to keep up withThese aspects  
+The system embedding module as well asThe scanning tool will offer relatively good performance and resource behaviour due toThe implemented design which have efficiency in mind
+The system maintainability shall be implemented throughThe use of proper coding principles and practices such as putting comments in a proper organized and standard manner inThe program 
+System modules will be loosely coupled to allow for easy maintainability when used byThe users 
+The system shall ensure portability by enforcing a relatively generalized level of abstraction that should appear betweenThe system interfaces andThe application logic 
+The system shall ensure thatThe application may be transferred to and installed on another platform with ease  
+The system will be made in a way so it may be compatible with other system architectures 
+The system shall enable a user to have a functional account withThe Twitter platform and create an application to access tokens 
+The system must be able to connect to Twitter Streaming API 
+The proposed system should be able to extract raw data from Twitter in real time 
+The system should be able to pre-processThe unstructured data into meaningful information match with existing keywords in database 
+The system will be used by government officials to bring relevant information toThe user unlikeThe normal web search where information retrieval is difficult as hundreds of irrelevant documents are returned in response to a search query 
+The system of web data mining is reliable asThe hardware and software is compatible 
+The system can be reliably used on any device that meetsThe specified hardware and software requirements 
+The system shall be able to handle a growing amount of work and also to be enlarged in order to accommodate that growth  
+The system shall enable web data mining from Twitter Twitter API provides different levels of accessing data through its Twitter Data Grants program
+The system’s logistics are usually accessed hence its availability is guaranteed when and as required 
+The system is compatible with all operating systems 
+The system database storing keywords will be secured against SQL injection attacks to reduce false positives 
+The system shall allow a member to spontaneously form a group of n signers using group public keys which associateThe group members 
+The system shall allowThe user to sign a document  
+The system shall allow whistle-blower to be able to sendThe message digest using his mobile phone to Zimbabwe Anti-Corruption Commission 
+The system shall enable verifying ofThe signature usingThe group public key so that it will be convinced that it actually came fromThe organization withoutThe knowledge ofThe actual singer 
+The SAG system can perform well inThe web environments 
+Th system adapts to all types of application and can operate reliably under various conditions without failure  
+The system is easy to use and user friendly 
+Our system gives good performance and resource behaviour 
+The system is easy to maintain as it offers modularity understandability changeability testability reusability and transferability from one team to another  
+The software can easily be transferred to another environment including install ability 
+The system shall be able to capture data packs 
+The system shall be able to de-fragment captured packets 
+The system shall be able to analyseThe captured packets 
+The system shall be able to interpretThe analysis results 
+The system shall be able to logThe IP address accordingly 
+The system can perform well inThe web environments and has few resources usageThe system must consistently checkThe resource use requests before 
+The system must allow scalability so as to perform legitimate modification of user data 
+The system ensure a secure storage ofThe user patterns so as to protect against compromise attackers 
+The system shall be able to block any illegitimate detections so as to render efficiently utilise system resources 
+The system shall be able to minimize false positives and false negatives 
+The system must be supported byThe following characteristics testability adaptability extensibility serviceability and localizability 
+The system adapts to all types of application and provides maturity fault tolerance and recoverability  
+The static attributes ofThe system predict potential operational performance bottlenecks and future scalability problems early to allow for correction early 
+The system user interface shall comprise of a front end and SQL back end contributing to a great user experience 
+The system shall have an interface which shall have a set of command buttons for manipulatingThe system whileThe backend shall have a set of relations defining user privileges 
+The system shall enable potential blood donors to register and answer a health history questionnaire 
+The system shall be able to screening of blood to occur atThe blood bank and results to be entered intoThe system 
+The system shall be able to defer ineligible donors and inform eligible donors via SMS 
+The system shall be able to keep an inventory ofThe donated blood id and type 
+The system shall enable that when a request is made byThe doctor/hospital a session is opened and a confirmation key is generated and sent toThe doctor/patient via email whichTheyThen will use after receivingThe correct requested blood 
+The system shall be able to enable payment which will have 2 factor authentication (static password and OTP) 
+The system shall be able to allow a user to register and sign in forThe blood recipient 
+The system shall be able to hash passwords 
+The system shall be able to authenticateThe username and password 
+The system shall be able to validate input
+The system shall be able to encrypt communication 
+The system should be able to identifyThe current location ofThe patient in times of emergencies
+The system shall be able to produce an incident report which contains (Patient location Patient current health status Patient History) 
+The system should haveThe ability to send informative alert toThe EMS providers andThe next of kin 
+The system should generate a road map from RRT toThe patient andThen toThe nearest hospital 
+The system shall be able to notifyThe respected parties ofThe clinical incident  even whenThere is a fault 
+The system shall be able to provide help in a short period of time 
+The system shall ensure that inThe event of a crisisThe patient is only required to pressThe power button three timesThereby simplifying howThe patient interacts withThe system  
+The interface ofThe system onThe EMS administrator side will be well articulated so that even individuals with low level of computer literacy will be able to useThe system 
+The system shall resist unofficial and unlawful usage evenThe action is by accident or intended 
+The system should only grant access to legitimate users and inThe defined stamp 
+The system shall ensure thatThe exchange of data is between mobile and web-based application software humans and combinations ofThese 
+The system data well integrated withThe web-based application in a seamless manner since both systems useThe same database for sharing data  
+The system works well in reducingThe affiliated risk of errors from inaccurate data formats 
+The web application will be secured by hardening and protectingThe servers and restricting access fromThe outside 
+The system shall be able to create and enforce secure coding practices throughoutThe development by strictly identifyingThe originator ofThe data that is required recognizingThe data items and data structures that are necessary for exchange  
+The system shall implement clear secure data exchange protocols it is ideal to implement secure protocols and documentThe interfaces andThe protocols being utilized 
+The system shall be able to locate and monitor a vehicle using GPS 
+The system shall be able to locate an Examiner during Road Test 
+The system shall be able to allocate an Examiner a Route to use once he finishes testing a learner driver inThe Yard 
+The system shall be able to produce a log of number of passes and failures in relation toThe Examiner 
+The system shall be able to alertThe control room through webpage notification if Objects exit defined routes
+The system shall be able to update eligible vehicles from different driving schools which are permitted to conduct Road Test 
+The system shall be able to enter new applicants intoThe system database 
+The system shall be able to allocate examination time for applicants 
+The system shall ensure that forThe generation ofThe report systemThe report will be generated inThe least possible time 
+The system shall be able to ensure thatThe number of registered vehicles should not affectThe performance ofThe system 
+The system shall ensure that not much time is spent on loadingThe web page 
+The system shall be able to authenticate users so that any unauthorized persons should not be granted byThe system 
+The system shall not be vulnerable toThe security attacks 
+Information relating to passwords must be confidential 
+The system ensuresThe software quality attributes reliability efficiency user-friendliness flexibility 
+The system shall be able to implement clear secure data exchange protocols it is ideal to implement secure protocols and documentThe interfaces andThe protocols being utilized 
+The system should be able to log all activities taking place onThe system for audit trial purposes 
+System should utilize a centralized database 
+The system should be able to allowThe user to swipe his or her tag/card onThe RFID reader and check if its valid or not 
+The system should be able to match current faceprint withThe faceprints in database 
+The system should be able to match RFID card/tag id withThe user’s face/person id to make for access to be granted 
+The system should be able to reject access toThe person who presentsThe tag that belongs to someone else in high probability 
+The system shall provide a high speed of searching comparing and matchingThe captured image withThe one inThe data base as determined byThe algorithm used 
+A system should be designed havingThe psychology and physiology ofThe users in min 
+The system shall be efficient and effective to use andThe tasks shall be accomplished on time 
+The system shall be easier to understand and learn howThe system actually works 
+The system will ensure that users have a good experience of using it as well asTheir ability to quickly navigateThe self-explanation design ofThe system 
+The system shall put proper controls for user input validations and configuration management to resist software tempering 
+The system shall authenticate all users and grant access only to authorized users to prevent unauthorized access to admin console 
+The system shall be able to allow logging of each user activity 
+The proposed system will allow only a registered user to be granted access into some restricted zones withinThe organization 
+The system modules are designed so thatThey can communicate with each other  It applies toThe hardware software interfaces that will betweenThe user andThe machine  
+In this systemThe RFID system should be linked to facial recognition system so that it functions as one access control security system Functionality
+The system user interface should be designed to makeThe interaction betweenThe user and machine simple  
+The system shall allow users to interact withThe RFID and facial recognition-based-access control system  
+The system enforces security administration to manage allThe rights toThe system features 
+The system must be able to deal with network threats onThe computer it would be installed on  
+When packets come in throughThe NICThe system should be able to detect traffic out ofThe norm  
+The system is supposed to alertThe user on malicious activities and recommend an action to be taken 
+The classifiers (algorithms in place) must be able to classify data according to its attributes and howThey can learnt  
+The system shall ensure that inThe eventThere are new attributes encounteredThe anomaly detection part comes in basing onThe informationThe system already has makes a prediction onThe new data  
+The system shall be able to learn normal vs anomalous patterns 
+The system shall collect suspicious traffic and ancillary informationThe describes or characterizesThe traffic identifying distinct network connections or associations (connectionless traffic) and including enough detail to assist criminal investigations and prosecutions 
+The system shall be detecting intrusions specific to a designated area of protection 
+The system shall be detecting denial of service attacks to include service overloads broadcast storms and also message flooding 
+The system shall be able to apply automatic recording of events and some incidents Security 
+The system shall be monitoring and scanningThe network 
+The system shall monitor and scan host 
+The system shall ensure thatThe IDS performance is sufficient enough to carry out real timeIntrusionD (real time means that an intrusion has to be detected before significant damage has occurred) 
+The system shall be able to maintain its performance over time 
+The system shall allowThe user to quitThe program after it has started
+The system shall allowThe user to accessThe start menu screen 
+The system shall allowThe user to viewThe signature parameters andTheir values 
+The system should be useful to enhance with further technology in future to improve its features compared toThe existing system 
+The system should be able to perform in all independent paths that allThe logical conditions are satisfied 
+The system should pertain to allThe situations so that it can be recoverable in any error conditions  
+The system should work allThe time and provide a means to handle errors with little or no input fromThe user 
+The data provided byThe system should be validated and verified were possible
+The system should be maintained properly so that it should be able to resolve any data conflicts and sustain at any condition  
+The program coding should be well documented and laid out particularly to facilitate future upgrades and additional functionality being added at a later date 
+The software should be easy to use with little training or experience 
+The  system should be able to carry out each task requested byThe user as quickly as possible 
+The system should be developed with future upgrades and additional functionality being added at a later date 
+The system should be able to provide data forThe current maximum number of tags presently two thousand for a period of thirty days in whatever formatThe user decides 
+The system should operate withThe minimum adequate resource levels to that ensure it performs at a level acceptable toThe user 
+The system shall load datasets and preprocessThem through tokenization and lemmatization 
+The system shall learn how a spam and good email look like for future classification throughThe use if machine learning algorithms 
+The system shall compute probabilities of an incoming email and classify it as spam or ham through machine learning 
+The system is dependable as it is developed using a high-level language a modern classifier and advanced datasets to detects spam but also reducesThe false negatives
+The system can be trusted for spam detection even after using it for a long time asThe data that was used for trainingThe classifier is so vast 
+The system is definitely more reliable because ofThe qualities that are inherited fromThe chosen python platform  
+The system shall not support reverse engineering of its source code  
+The system is deployed as an application on user machines thus it is cost-effective to maintain as it does not have many modules and online documentation including system documentation and test documentation for easy user acclimatization 
+The system is designed to be cross platform supportable The system can be used on a wide range of hardware and any software platform (Windows and Linux) 
+The system shall allowThe administrator to register and create user accountsThe system shall capture user details like username email address phone number etc  
+The system shall send a one-time password toThe user phone forThe completion ofThe login process 
+The system shall allow generation of public and private keys These keys will be used for encryption and decryption ofThe AES symmetric key for a safer key exchange  
+The system shall allowThe user to encrypt/decrypt messages using AES algorithm 
+The system shall allowThe user to check for data integrity using MD5 hash algorithm 
+The system shall allowThe user to embedThe encrypted message and retrieve encrypted message fromThe image using LBS technique 
+The system can perform well inThe web environments and it can also allow multiple clients to login and communicate atThe same time 
+The system is easy to use and it is user friendly as it is based and implemented on a website and has an interactive interface  
+The system has clearly defined links and buttons that showThe various functionalities thatThe user may require 
+The system interface supports efficiency of use 
+The system shall allow uploading or viewing messages 
+The system shall allow for checking data integrity 
+The system shall support embedding or retrieving message fromThe image without user errors 
+The system shall offer high level security as it shall give access to authorized users only 
+The system must also allow users to communicate securely knowing thatTheir confidential data is safe from eavesdroppers 
+The system should have a good interface easy to use and should have buttons with labels to assist users to accomplishTheir goal communicating confidential results in a secure manner
+The system should have a clear presentation of elements and it must also be interactive and provides help information to helpThe clients and giveThem guidance on how to useThe system 
+The system shall be able to detect spam messages and directThem to spam in real time 
+The system shall enable users to classify messages as spam if misclassified as ham 
+The system shall enable users to classify messages as ham if misclassified as spam 
+The system shall be able to allow process of filteringThe email to be executed in a fast manner sinceThe classifier is only focused onThe text withinThe mail 
+The system shall be able to ensureThe performance ofThe classifier is determined byThe bandwidth ofThe receiver butThe classifier takes no time in processingThe text contents ofThe email 
+The system shall be able to ensureThe performance ofThe classifier is determined byThe time taken to correctly classify emails andThe time taken to classify
+The system will be very reliable in classifyingThe emails correctly as ham or spam since a large dataset was used to trainThe classifier with various emails labeled as ham and spam respectively 
+The system will deliver emails wheneverThere is internet connection to receiveThe emails with minimal downtimes 
+The system will operate roundThe clock 
+The system shall be able to ensureThe user passwords and data will be encrypted to ensure that user information is secured 
+The system shall be able to ensureThe user access controls will be put in place to restrict unauthorized users to access user accounts 
+The system shall be able to be easily maintained and updated with new data that emerge sinceThe spammers will be trying to bypassThe filter with new tricks being employed 
+The system can be implemented on any mail server with only a few configurations taking place to suitThe framework used on developingThe mail server 
+The system will have a homepage which will be responsible for redirectingThe user toThe desired page this can be a login page whereThe user will login to his email account or a registration page whereThe user creates an email account 
+The system shall have a registration page to capture and verifyThe details ofThe new user to see ifThe provided information conforms toThe requirements ofThe system 
+The system shall be able to ensureThe information provided include a unique username password and some personal details which are needed to verify thatThe user is eligible to create an account 
+The system shall have an optional email field for recovery in case one forgets passwordThe reset link will be sent to that email with instructions 
+The system login page is for already existing users whereThey provideTheir unique username and password for verification and onceThe details are verifiedThey are redirected to mailbox 
+The system mailbox is responsible for displayingThe emails ofThe logged in user as well as allThe spam emails and it will have a dashboard to navigate throughThe emails 
+The system shall provide supervisors with ad hoc reports for decision making’
+The system shall provide administrator with security to data to make sure that unauthorized users do not accessThe information 
+The system shall provide allThe internal users a backup ofThe operational and transactional data 
+The system shall provide users with a system that is error free and efficient in capturing and retrieving information 
+The system shall provide customers with a system that is error free and processTheir cases quickly
+The system should be easy to maintain and it should be modifiable
+The system should be computer based 
+The system should have access control mechanism that take into accountThe use of passwords and individuals access rights  
+Each user is to be configured with a unique User Name and a password that can be changed when it is necessary  
+The system super administrator should be able to grant access privilege to users and restrict access of information and data users can view or modify at any given time  
+The system should haveThe ability to validate entered data hence reducing redundancy and duplication inThe database 
+The system should use report –generating modules to produce reports that can be conveniently used by management in decision making 
+The system should have a user-friendly interface which is easy to use and accommodate all types of impairments such as visual impairments 
+The system should incorporate easier search mechanism that can assist users in retrieving and searchingThe required information 
+The system should reduceThe workload andThe amount of information to be entered through creating automatic updates between related tables and queries inThe database 
+Use of passwords to control access to data to reduce corruption and preserve confidentiality 
+The new system should work very fast in retrieving and updating records 
+The system should be accurate and easy to operate
+Use of a central database to enable real time data capturing and manipulation to facilitate access to laptop details from any computer connected toThe database
+The system should be able to identify and trap user input error 
+The system shall not permit input of wrong data type 
+The system should allow use of strong passwords and different viewing levels to control access to data to reduce  unauthorized access to data
+The system should be easy to use and also allow quick and flexible means of entering information for processing and GUI based on Windows architecture should be employed
+The system must have a log on feature limiting individual uses to those functionsThey have a need to access according toTheir responsibilities
+The system database should be backed up continuously at least once every for hour in order to minimize data loss inThe case of a catastrophic failure 
+The systems administrator should maintainThe system and its databases to ensure integrity and availability of information
+The system should reduceThe workload andThe amount of paper work that has to be filed 
+The system shall run overThe MPLS network 
+The system shall require a password to loginThe Provider Routers 
+The system shall ask user to provide password 
+System must allow clients to run a separate routing protocol from one in ISP network 
+The system shall allow different clients to run in different OSPF areas 
+The system shall ensure device in one ODPF area must not communicate with another in a different OSPF area 
+The system shall ensure thatThe end user will not experience any significant performance degradation while accessingThe system wirelessly or remotely as compared withThe access fromThe wired LAN 
+The system shall ensure thatThe authentication server interact withThe database to check for registered user fromThe database 
+The system shall ensure thatThe authentication server communicate withThe door controller for opening and closingThe door 
+The system shall have a database for storing of user accounts and particulars ofThe registered users 
+The system shall allow a lookup of registered users if requested byThe authentication server 
+The system shall allow a user to search and make a selection of nearby devices for handshake initiation 
+The system shall allow a user to changeThe temporary PIN received fromThe system 
+The system will stand in-betweenThe client andThe server however it is associated withinThe server’s architecture 
+The system shall allow traffic data inThe form of HTTP requests/packets are sent back and forth from client to server during normal service provision 
+The system functions as an IDS/IPD and aids in relieving traffic targetingThe server if a distributed DOS attack occurs andThe server is flooded withThe requests
+The performance ofThe system will be measured asThe amount of work accomplished byThe system andThe manner in whichThe system will function 
+The system will be designed so that it will have short time to respond 
+The system shall have high throughout which isThe output relative to input 
+The system should have a high rate of processingThe work andThe services rendered 
+The system shall have high availability wherever it is needed 
+The system shall have short time for data transmission 
+The system will provide good quality online services The system will be easy to use since a straightforward user interface will be provided 
+The system shall provide authentication service which is tested when logging intoThe Django admin panel (back-end) ofThe system whenThe user logs intoThe system by enteringThe username andThe password created by entering a command prompt when runningThe manage code  
+The system shallThe user to enterThe URL ofThe local host and port forThe admin panel inThe browser and proceeds to log in  This is provided byThe Django framework
+The system shall enableThe administrator to log intoThe system and to uploadThe captured traffic data intoThe analysis system so as to be accessed by any other administrators available 
+The system shall allowThe administrator to browse forThe file withinTheir local system and submit it toThe analysis platform  
+The system shall allowThe results containing a list of IP addresses that have been singled out to be viewable onThe web based platform 
+The system shall be able to detect SQL Injection and XSS vulnerabilities for a website or a web application 
+The system shall be able to analyseThe detected vulnerability 
+The system shall be able to identify acceptable low false positive rates 
+The system shall be able to inspect SSL certificate 
+The system shall be able to generate a report ofThe detected and analysed vulnerabilities 
+The system will have a very low False Positive Rate so that it can correctly identifyThe false positive calls and differentiateThem fromThe real vulnerability ones 
+The system will have a very low False Negative Rate which means it be able to detect an actual vulnerability when it exists 
+The system scanner may accept a certain number of URLS that should testThem for selected vulnerabilities 
+The system should be able to carefully diagnoseThe real vulnerabilities whenThey exist based on conducting formula-based experiments 
+The system shall allow forThe creation of test-bed environment (web applications and/or websites that can be tested for penetration testing and hacking) where experiments should be conducted   
+The system shall tested in order to monitor its behaviour from accuracy performance false positives and false negatives  
+The system should have a friendly user interface for ease of use purposes and for a better user experience 
+The contents ofThe proposed project should be implemented using Python programming language 
+The components andThe functionalities ofThe project are associated with a friendly interface design to enhance user’s experience
+Parameter inputs are supplied using different user friendly input components that ate based on Graphical User Interface (GUI) concepts 
+Reports should be delivered in industry-standard format 
+The system downloader shall allow downloading of contents fromThe server (music store) 
+The system downloader shall allow trimming of each song into small parts 
+The system player shall be responsible for hashingThe trimmed parts’ names 
+The system player fillsThe look-up table with required data 
+The system player locatesThe hidden folder 
+The system player shall be sends contents intoThe hidden folder 
+The system player shall locate and retrieve required contents fromThe hidden folder 
+The system player shall rearrange correctlyThe random trimmed song parts 
+The system player shall play audio files
+The system player shall be interact with user using a Graphical User Interface
+The system comprises of different modules that operate hand-in-hand to accomplishThe desired goal  
+The system modules interact withThe user throughThe Graphical User Interface egThe downloader module is initiated byThe user throughThe download button atThe user interface 
+The system shall ensure that most of its operations will not be user-oriented but will be inThe background such that onlyThe basic operations are required to be known byThe user such as how to purchase a song and how to play a song 
+The system will be divided into modules ie downloader trimmer player to enhanceThe maintainability ofThe system and its troubleshooting 
+The system shall be able to accomplish that which it was designed for with no glitches 
+The system’s ability to produce a trimmed output will deprive an attacker (pirate) access to a single complete song file from any point onwards  
+The player will hideThe trimmed files from any direct contact with user or attackerThereby reliably depriving any illegal sharing of files 
+The system shall allow a user to create an account 
+The system shall allow a user to login 
+The system shall allow a user to view and update details 
+The system shall generate a suppression report 
+The system shall generate a generalisation report 
+The system shall allow authorized user to edit patient details
+The system shall perform analysis of network traffic payloads acrossThe organization network 
+The system shall analyse and record suspicious packets signatures and detects an anomaly ifThe following packets data matchesThe recorded threat related signatures 
+The system shall use honeypot which records and analyses packets flowing throughThe network  A honeypot is a system decoy which is used to makeThe attacker believe that he/she is attackingThe intended system  
+The system shall ensure thatThe honeypot recordsThe attacker’s activities and warnsThe system administrators inThe event of a threat toThe system being protected 
+The system shall enable creation and editing of user details 
+The system shall enable patient management
+The system will ensure user validation will be done during login to insure thatThe user is valid and thatThe user only has access to his or her permission data  
+The system will ensure that general users will only have access throughThe user interface 
+The system will have consistent interface formats and button sets for all forms inThe application will have a form based interface for all data entry and viewing formats
+The system shall provide invisible digital watermarking devised with use ofThe Discrete Cosine Transformation which encompassesThe factors of complex computations and robustness 
+The system shall provide security principles such as authentication
+The system Digital watermarking platform creates an environment for embedding and extractingThe watermark from an image  
+The system shall provide a section for verification inThe sense that if an image is said to have a watermark it should be able to detect and displayThe watermark
+The system shall allow an author who desires to protect his/her work from unauthorized use to upload an image to embedThe invisible digital watermark whenever  submitting a piece of art  
+The system shall inThe event that a watermarked image is submitted twice or more by different authorsThe administrator shall be able to verifyThe legitimate owner ofThe image to protectThe copyrights 
+The system shall ensure that as a watermark is an essential part of data it must continue even after signal processing and data manipulation including malicious operation that endeavors to removeThe watermark 
+The system shall offer a high speed inThe time taken byThe system to embed and retrieveThe watermark 
+The system including hardware firmware and software shall adequately performThe task for which it was designed or intended for a stated time and environment 
+The system principle of authentication applies in thatThe system notifies ifThere is a watermark onThe image or not 
+The system shall enable retrieval ofThe watermark fromThe image and displayingThe similarity ofThe original image andThe watermarked image  
+The system ensures thatThe time taken to embedThe watermark is displayed along withThe hash value ofThe image 
+The digital watermark system is compatible to allThe operating system 
+The embedding module ofThe invisible digital watermark is implemented usingThe Discrete Cosine Transform (DCT) 
+The watermark verification platform is implemented using C# and a Graphical User Interface
+The system shall capture network traffic betweenThe hypervisor andThe subject/monitored virtual machine 
+The system shall store captured traffic data from a pre-determined period 
+The system shall monitorThe virtual machine from hypervisor level 
+The system shall detect instructions based onTheir signatures and classifyThem according to severity 
+The system shall automatically acquire a forensic image ofThe compromised VM main memory upon detection of a severe intrusion 
+The system shall preserveThe integrity of acquired forensic imagines by applying integrity checksums and hashes 
+The system shall provide reports on currently stored network captures 
+The system shall provide reports on intrusionsTheir classifications and action taken 
+The system shall provide reports on failure and success of forensic image acquisition 
+The system shall provide reports on statistics of acquired images (documentation) 
+The system ensures integration of all modules includingTheIntrusionD and memory acquisition modules as a proof of concept 
+The system shall make use ofThe web based interface for information and reporting will meetThe necessary standards necessary to meetThe performance requirements 
+The Intrusion Detection module will be based on a tried and tested architecture andThe same will apply toThe memory acquisition tool  to avoid violatingThe proper coding principles as well as best practices for documentation
+The system shall be easy to install learn and operate more so for less forensically qualified IT personnel 
+The system shall provide access control toThe user interface 
+The system shall provide a secure channel of communication betweenThe backend system andThe web user interface 
+The reports forTheIntrusionD Module as well asThe reports and result ofThe Evidence Collection Module will be presented on a web based graphical user interface usingThe python web framework Flask 
+The system shall provide log in and logout capabilities which can be seen asThe first line of security which most systems should possess for authentication and accountability purposes 
+The system shall provide compression ability so as to save data usage time and storage space and also decompression option forThe file to be presentable or readable toThe end user 
+The system shall have encrypt and decrypt modules in place to attain better and improved security for containing privacy invasions in overall 
+The system shall provide file type filtering so as to avoid overloadingThe normal flow information with unnecessary files 
+The system shall allow processed files to be moved over toThe end of communication channel that is from one machine toThe other 
+The system provides a light weight application implying that it has that capability to cater for those machines which are very slow in terms of processing to achieve a better service 
+The system shall provide throughThe database ability to search and find a certain competent doctor who can provide help promptly withThe capability to give feedback to user inThe case that no doctor is assigned inThe first place  
+The system offers little room for a delayed data transmissions and system failures due to error handling procedures and feedbacks 
+The system offers ability to send and receive messages and files without losing part ofThe data quality and exact size retaining 
+The system is a lightweight app which has allThe algorithms and libraries engraved within itself for easy management of information which that app would be working with thus making its maintenance easy and simple 
+The system deliverable is a standalone one which can be an executable that can also be easily taken to a desktop machine and easily used on windows platform  
+The system executable files can be uploaded on online storages and can be downloaded and used byThe next person onThe other end 
+The system shall provide a simple to use interface for computer novices to be able to select files to be compressed and encrypted and sendThem without any much difficulties whilst inThe back and achieving our goals 
+The system shall integrateThe instructions procedures or operations guide intoThe deliverables so that whenever one fails to perform a certain action he/she has somewhere to refer to 
+The system shall be able to detect an approaching figure 
+The system shall be able to input digits
+The system shall be able to displayThe punched digits 
+The system shall be able to authenticate pin entered 
+The system shall be able to openThe door whenThe pin is correct 
+The system shall ensure that buzzer must ring if 3 consecutive wrong attempts are entered  
+The system shall ensure that GSM must send an SMS alert message when 3 consecutive wrong attempts are entered 
+The system shall be secured against environmental threats and this is one of its prime function 
+The system can be used in other platforms such as switching circuit or concerted to home security 
+The system components are not going to be degraded by weather changes such as heat or humidity evenThe casing will be designed to suitThe prevailing weather conditions 
+The system shall be reliable as routine maintenance shall be done often
+The system shall be fast in intrusion response to help in stoppingThe intensity ofThe damage or mitigation ofThe risk  
+The system is designed to giveThe user many options that include switching 
+The system can be configured to work with a camera a PC and other access control system to enhance multiple factor authentication 
+The system consists of both hardware and software it is relatively simple to integrate it to other systems 
+The system will cater for its ability to be extended with more features and functionalities without compromising its original one or affectingThe operations ofThe user 
+This system is not complex it is an Intelligent engineering artifact that is user-friendly it only requiresThe attention ofThe security personnel andTheir reaction to its report 
+The system shall be able to detect motion withinThe camera feed and capture and image where motion is detected 
+The system shall be able to detect faces inThe captured image to seeThere are human faces withinThe image 
+The system shall be able to recognizeThe faces detected withThe image 
+The system shall be able to send an SMS and an Email to security whenThe detected face is not inThe system’s database 
+The system ISAAS will have scalable speed to meetThe response time and performance targets and it should be able to serve detection concurrently without any delay or unrealistic waiting time for a response 
+The system should be efficient to use and it takes less time to accomplish a particular task 
+The system will ensure users have a good experience of usingThe system as well asTheir ability to quickly navigateThe self explanatory design ofThe system 
+The system shall be safeguarded against deliberate and intrusive faults from internal and external sources as it has proper controls such as user input validations and anti-software tempering 
+The system shall offer authentication authorization configuration management to prevent access to admin console 
+The system shall be available to users allThe time to ensure a 24/7 service delivery and give results in a short period of time 
+The proposed system shall be designed such that any glitch can be fixed in no time to restore service to users and it will allow adding functionality easily 
+The system shall allow to create and enforce secure coding practices through strictly identifyingThe sources of required data identifyingThe data items and data structures required forThe exchange 
+The system shall be able to clearly identify relevant protocols forThe data exchange document or referenceThe technical requirements for data exchange including:The source data items data structures timing method and protocols 
+The system shall be able to allow cloud user to register and create an account  
+The system shall capture user details such as user name id number email address mobile number etc inThe registration process 
+The system must generate a shared encryption key upon registration 
+The system shall be able to allowThe user to generateTheir ECC public and private keys These keys are to be used forThe encryption ofThe AES encryption key and also for PDP 
+The system shall be able to allowThe user to upload and download stored files The system shall provide a platform that allowsThe user to upload files for storage and also to retrieveThe files by downloadingThem when required 
+The system shall be able to secure uploaded files using AES algorithm with a 256-bit key The system shall automatically encryptThe files that will be uploaded byThe user for storage using a 256-bit encryption key 
+The system shall be able to allowThe user to checkThe integrity of stored data throughThe PDP functionality 
+The system can perform well inThe web environments and also with huge files 
+The system can allow multiple clients to login and saveTheir files toThe remote server 
+The system is also easy to use and user friendly as it is based and implemented on a website and has an interactive interface  
+The system has clearly defined links and buttons that showThe various functionalities thatThe user may require 
+The system is web based andTherefore guarantees maximum availability of data toThe cloud data owners 
+The system is easy to maintain as it can easily be integrated with other systems modified or reused on other different platforms 
+The system is developed using python programming which is platform independent meaning that it can be deployed used on any platform be it windows Linux or MAC OS  
+The web interface is done using CSS and bootstrap which makes it possible to useThe system on mobile phones 
+The proposed system is efficient as it is based onThe most secure and efficient encryption algorithms
+PDP reducesThe amount of time and computational efforts that would be required ifThe data owner was to downloadThe data andThen check ifThe data was modified manually 
+The system shall be user friendly and make it easy forThe users to navigate throughThe web materials 
+The system shall not keepThe data owners waiting for long time while waiting for it to processTheir requests and respond 
+The system shall be interactive and provides help information to helpThe clients and giveThem guidance on how to useThe system 
+The system must be portable in such a way that it can be usable on different devices with different screen sizes without difficulties
+The system enhances security throughThe use of more secure and efficient enciphering algorithms that is Advanced encryption standard with a 256-bit key and Elliptic curve cryptography  
+The system shall implement a combination of cryptographic algorithms that are secure and have proven to be unbreakable byThe current technologies hence usingThese algorithms collectively strengthensThe security ofThe system 
+The proposed system is meant to use a two-factor user authentication system which ensures that onlyThe registered and legitimate user is able to accessThe system and upload or viewThe data  
+The system shall ensure that onceThe account holder has provided a correct login passwordthey will receive a OTP or code sent viaThe email orThe data owner’s mobile phone
+The system security shall add an extra layer of defense making it difficult for an adversary to successfully gain unauthorized access toThe system and compromiseThe integrity ofThe stored data 
+The system has got an audit or logging mechanism which enablesThe user to check and view ifThere were other malicious activities that have been happening when afterThey logged out ofThe system  
+The system shall be able to show a section which displaysThe last time a user logged inThe system and a summary ofThe activitiesThey did onThe system upon logging in 
+The system implements a PDP scheme which allowsThe user to audit and check ifThe untrusted server or an adversary did not compromiseThe integrity ofThe uploaded data 
+The system shall be an E-government content management system 
+The system shall implement authentication using PKI 
+The system shall allow a user to register through sponsorship from relevant Human Resources 
+The system shall allow a user to log into system and authenticated 
+The system shall allow a user to view content or dashboard 
+The system shall allow a user to manageTheir own password 
+The system shall allow a user to search for resources 
+The system shall allow a user to do CRUD operations on record 
+The system shall allow a user to be authenticated throughThe use of digitally signed certificates and again single-sign-on functionality will be fused intoThe system to allow once off authentication as long asThe session is deemed active and valid 
+The system shall allow user authentication process to be done through  trusted parties viaThe internet 
+The system shall reduceThe occurrence of failure inThe system  
+The system will be using local Microsoft based certificates thusThe intention is to ensure availability ofThe certificate authority at all times
+The system shall provide redundancy to avoid a single point of failure and reduce interruptions which will renderThe system unusable 
+The system will employ encryption atThe database side and use HTTPS when accessing networked resources overThe internet  
+The system shall implement a policy on technical issues like renewal of certificates and lost eIDs to cater for all eventualities 
+The system will work across platforms taking advantage of web browsers since it will be portal based  This entails thatThe EGOVAUTH system will be portable as long asThere is internet connectivity 
+The system shall offer FuGUI statistical presentation of email spam detection and filtered emails 
+The system shall allow storage of Emails in different folders as spam and ham emails 
+The system shall enable user interaction to move to spam as Blacklisting and move to Ham folder as whitelisting 
+PlutoMail will offer spam protection at server level and eliminatesThe need to install and update antispam software on each desktop  
+PlutoMail offer a fast set-up and a high spam detection rate using Bayesian analysis and other methods – no configuration required very low false positives through its automatic whitelist 
+The system is able to automatically adapt toThe email environment to constantly tune and improve spam detection  
+The system shall enable sorting of spam to users’ junk email folders  Reporting mail archiving monitoring and POP3 downloading 
+The PlutoMail will have scalable speed to meetThe response time and performance targets  
+The system shall be able to serve multiple users concurrently without any delay or unrealistic waiting time for a response 
+The system shall be efficient to use that it takes less time to accomplish a particular task 
+The system shall be easy to learn that its operation can be learned by observingThe software or system 
+The system shall simplify business operations 
+The system shall provide a user with an interactive Email client that will allowThem to send receive and archive emails with destiny folder that will separate legitimate emails and illegitimate emails 
+The system shall be able to allowThe model as it learns new features it should also be able to learn in real-time from user actions like moving an email to spam and from spam folders interchangeably
+The interface will have to satisfyThese objectives or requirements on any device and platform 
+The system shall allow a user to send email 
+The system shall allow a user to check new email 
+The system shall allow a user to delete email 
+The system shall allow a user to view spam 
+The system shall allow a user to move email to or from spam folder 
+The system shall allow a user to view statistical report ofThe filter engine and possible sources of trouble over periods 
+The system shall allow doctors to register and create an account and upon registration allowThe system to generateThe doctors’ public and private keys 
+The system shall allowThe radiologist to compressThe images using optimized lossless compression methods 
+The system shall allowThe radiologist to encrypt and uploadThe images toThe cloud 
+The system shall enableThe radiologist to verifyThe integrity of stored images throughThe PoR functionality 
+The system shall allowThe doctors to download decrypt and decompressThe images 
+The system can perform well inThe web environments and also with huge files  
+The system shall allow multiple clients to login and saveTheir files toThe remote server
+The system shall be user friendly and easy to use as it is based and implemented on a website and has an interactive interface  
+The system has clearly defined links and buttons that showThe various functionalities thatThe user may require 
+System shall provide access only to legitimate users resist unathorised users accidental or unintended usage 
+The system shall be a simple and attractive website with a clear presentation of elements 
+The system shall be user sociable and make it easy forThe users to navigate throughThe web materials 
+The system shall be responsive not keepingThe data owners waiting for long time while waiting for it to processTheir requests and respond 
+The system shall be interactive and provides help information to helpThe clients and giveThem guidance on how to useThe system 
+The system shall be portable in such a way that it can be unable on different devices with different screen sizes without difficulties 
+The system shall allow Cases Reported to be recommended toThe closest police station 
+The system shall allow Analysis of locations prevalent crime using crowd-sourced data and reports data 
+The system shall allow local Law Enforcement Agencies to track cases location of reporter receive crimes reported based onThe reporter’s current location 
+The system shall allowThe publishing and viewing of Wanted/Missing Persons 
+The system shall allowThe Submission and responding of complaints and alerts 
+The system shall allow users to track case progress on previously reported cases 
+The system shall allow users to callThe nearest police station in situations of emergency usingTheir live location 
+The system shall accommodate high traffic and be able to maximize its performance without glitches sinceThe system will be used byThe nation as a whole henceThe users shall be many and using it concurrently  
+The system application must be on very high standard servers to accommodateThe huge amount of data and requests for access toThe server from a large number of users atThe same time 
+The system database must be located in a special secure server and must be backups to other servers directly at specific times to avoid loss and damage of data 
+The system shall minimize access toThe system atThe police side to only authorized police officers 
+The system shall allowThe user to learn operate prepare inputs and interpret outputs through interaction withThe software system easily without any complications 
+The system shall meet user’s needs regarding ease of entry ease of learning ease of handling likability and possible metrics  Usability
+The system shall be available at all times meaningThe user can access it using a device application which addressesThe user concern for how dependableThe system is during normal operating times 
+The system must be considered downtime impact onThe business transport unavailability and minimizing unavailability
+The system shall allow a user to listen for any port scan on university WIFI network 
+The system shall allow a user to block internet toThe computer doing port scanning 
+The system shall allow a user to push warning script toThe rogue node
+The system shall allow a user to check netstat and recent network connections to see if rogue node it a victim of pivoting and if so traceThe attacking machine 
+The system shall allow a user to recover unique identifiers ofThe node which was used to generateThe node’s unique ID/fingerprint upon registration whenThe owner entered/joinedThe university with it 
+The system shall allow a user to note hostname of rogue node as well asThe SSID ofThe network it is connected to as to know from which section on campus isThe attack being done
+The system shall allow a user to check with students laptop and university PC register and search for device matchingThe rogue node and corresponding student and student personal details 
+The system shall allow a user to display message on rogue note screen warningThe student by name that port scanning is not allowed and this is automatically added toThe student’s record if such an offence is repeated more than once 
+The system shall allow a user to generate monthly reports which can be viewed by network admin when necessary  
+The system shall allow background processes to be monitoring for any scan and relaying information toThe registry about any unusual activities
+The system shall allow time to fetch student details fromThe database to be 2 seconds (To be tested during development)’ 
+The software will work as long asThe server upon which it is installed in running There are no time limits to usingThe software
+The software is a safety-critical one and is used to perform last line of defense protection against attacks since defects in safety-critical software can lead to serious service disruption or server down time 
+The software depends onThe operating system speed and efficiency in its execution  
+The system’s listening for scanning is done while listening toThe OS activities  
+The system does not continuously interact withThe database it does seek student information fromThe university database only whenThe administrator requests  
+The capacity to do things right will depend onThe monitoring tasks definition  
+The software will look at port scanning only onThe host it will be deployed on this will devote allThe listen to one part ofThe many policies in a computer 
+The software will undergo all types of testing like performance testing stress testing and many others   
+The product can be corrected by updates patches and with newer versions when required 
+HID is designed to work on windows platform from Windows 7 and any later version of windows butThe software needs some adjustments for it to work on Linux platform 
+The software is delivered with a user manual and once installedThe software is easy to run  
+The user ofThe software who isThe administrator logs in and setsThe software to run and give desired alerts from PCs scanningThe server 
+The system will permit user credentials registration 
+The system shall allow a debit/credit card to be activated 
+The system shall allow buying patterns ofThe purchases to be analyzed
+The system shall allow anomalies to be curbed after detection 
+The system allows user re-verification byThe usage of AVS and distinct security questions 
+The system’s time to react to toleratingThe exchange to happen or dismissing it hinderingThe card and cautioningThe head be brief in order to advance an easy to understand framework 
+The system shall offer high throughput which isThe yield in respect toThe measure of going through a framework from contribution to yield 
+The framework should exhibit a high rate of work handling and that of administrations’ clients  
+The system shall enable administration services from login doingThe exchange and in addition client re-verification  
+The framework ought to be accessible wherever it is required  At whatever pointThe clients needs to make a purchase
+The system shall provision good quality online services making it easy to use since an up-front user interface will be delivered 
+The main system is centered around security on online transactions hence it is secure 
+The System shall be able to calculate maximum soil water deficit 
+The System shall be able to control a water pump forThe application of water toThe crops being irrigated
+The System shall be able to save water by reducing water applied to plants 
+The System shall be able to autonomously schedule irrigation without farmer input 
+The system should be simple and user friendly
+The system should allow for quick error recovery 
+The system user interface should be almost self-explanatory 
+The system shall be compatible with different desktop platform 
+The System shall allow creation of users (Administrator Lecturer Student) accounts
+The System shall be able to allow lecturer to add students’ final marks 
+The System shall be able to allow student to view final results and degree class 
+The System shall be able to allow students to view recommended careers forThem
+The career recommender should be simple and user friendly 
+The system should allow room for quick error recovery  
+The user interface should be easy to navigate and should be self-explanatory 
+The system shall be able to calculate performance of each user 
+The system shall be able to simulate road rules diagrams 
+The system shall be able to save user profile of each user 
+The system shall be able to randomize scenes so that a user cannot predictThe next scene 
+The simulator should be simple and user friendly 
+The system should allow for quick error recovery 
+The user interface should be almost self-explanatory 
+The user interface should be easy to navigate and should be self-explanatory 
+The system shall be able to accept data from previous projects forThe learning process 
+The system shall be able to giveThe cost engineers a platform to add features and necessary data about a desired project
+The system shall be able to compute construction cost estimate based on data and features fed byThe cost engineer 
+The system shall be able to display final cost estimate forThe cost engineers 
+The model should produce estimates very early ie it should be able to produce an estimate withinThe very day you receive and feed requirements to it asThe training process would have been done already 
+The system shall limit typing forThe cost engineers or contractors throughThe use of radio buttons and drop-down menus 
+The interface should be clear enough and simple to understand for its designated users 
+This system provides ability to register a mother who comes toThe Healthcare Centre forThe first time 
+The system shall register a new baby and its details linked toThe mother 
+The system shall retain records for all babies a mother will have subsequently 
+The system shall monitor a baby’s growth 
+The system shall allow a user to view mother or baby details to add new information and update records 
+The system shall allow a user to viewThe progress of a baby from birth to postnatal visits
+The system shall allow monitoring of growth and healthcare issues pertaining to a baby and its mother 
+This system will provideThe user with a notification on account information updates scheduled review dates disease outbreaks health practitioners advice and hints on practicing proper baby health care 
+The dispatching mechanism will employ sms blog chats and email
+The system can perform well inThe web environments catering for all mothers nationwide without encountering major challenges 
+The system in terms of responsiveness is a real time system such that clients can easily access medical records of baby’s at any given point in time 
+The system will be used at a national level offering reliability however it is hard to balance development time but it provides maturity fault tolerance and recoverability 
+The system shall be easy to use and user friendly as it is targeted at all mothers both literate and illiterate 
+The system is an efficient system that hasThe best operational performance relieving both nurses and mothers ofThe time-consuming nature in provision of services in health facilities 
+The system is a very secure system with log on credentials allowing access to only authorised members It ensures that information is kept secured at every moment and onlyThe right people have access to records 
+The system is user friendly and easy to navigate 
+The system shall be able to predict fraudulent and non-fraudulent transactions in real time 
+The system shall be able to store transaction information 
+The system should be simple and user friendly 
+The system should allow for error recovery 
+The user interface shall be almost self-explanatory 
+The system should provide a functionality to allowThe user to view and read temperature humidity and soil moisture content states ofThe plants from nursery stage up to Harvesting 
+The system should provide an interface that is easy to readThe state of affairs from a remote place for example inThe field or nursery 
+The system should also be able to notifyThe user ifThere is any change inThe conditions ie drop or rise that is any anomaly should be notified toThe user ofThe system 
+The system should keep record of time and dates to facilitate data analytics
+The system shall haveThe capability to inspectThe SSL certificate of a given web application or a website
+The system shall perform a footprint analysis to determine what network services and/or software programs (including versions and patch levels) run onThe target
+The system finds indicators (patterns attributes) of or to exploit vulnerabilities known to exist inThe detected services / software versions
+The system shall reportThe findings after detecting and analysingThe vulnerabilities
+The system shall verifyThe SSL certificate on a given web server to make sure it is correctly installed valid trusted and doesnt give any errors to any ofThe users
+The system connects to web application server and displaysThe results ofThe SSL connection including what SSL certificate is installed and whether it gives outThe correct intermediate certificates 
+The  system shall reportThe findings ofThe SSL certificate phase 
+The system shall create hashes ofThe passwords and storeThem upon signing up once a user types password(s) in plain text format 
+The system shall giveThe user an option to reset a forgotten password of an existing username by e-mail 
+The system users shall be able to accessThe system using an existing hard to guess password 
+The system ensures thatThe user is properly authenticated for every system access 
+The system shall provide a user withThe option to encrypt and decrypt data 
+The system shall allow an employer to add speech commands 
+The system shall receive speech input from a microphone 
+The system shall activate known commands on speech command dictation 
+The system shall respond to users via voice synthesis and graphical displays
+The system must be fast at detecting speech commands and using windows speech algorithms and multithreading will help to achieve this
+The system shall execute its tasks accurately when issued a command Testing will ensure that all functions are properly included 
+The system shall be self-protective and failure proof exception handling will ensure thatThe system is fail safe and gracefully stops under error conditions
+The system shall be very simple to use Simple voice instructions will assist users with operation guidelines 
+Employees shall be identified by a 6 character password 
+System shall start a clock when an employee logs in and stopThe clock when employee logs out 
+System shall add up all hours worked by an employee per month 
+System shall calculateThe salary of each employee atThe end of a month 
+The system shall allow a customer to register 
+The system shall allowThe customer to upload documents 
+The system shall allow verification and validation ofThe documents 
+The system shall enable block initiation and new block (record) addition onto Blockchain 
+The system shall enable data multiple replications 
+The system shall allowThe average time taken to finish level 1 verification add a new block ontoThe chain and displaying update notifications to be minimal 
+The system shall allow minimal delays between uploading and viewingThe data irrespective ofThe number of operations executing 
+The system shall non-technical personnel withThe most basic understanding of web browsing andThe internet to be able to useThe system 
+The system shall be able to capture and verify client KYC information 
+The system shall store client KYC information in decentralised database using blockchain 
+The system shall perform real time updating and processing of KYC information depending onThe changes made to client KYC profile 
+The system shall send requests to clients to allow for consent of use of clients’ KYC information 
+The website shall allow any updating of a client’s KYC information 
+The system shall allow changes to be made in an authorised manner 
+The system shall be able to show clients KYC information to authorised users 
+The system shall allow secure storage of client information 
+The system shall be able to send an alert message 
+The system shall ensure thatThe embedding module as well asThe scanning tool will offer relatively good performance and resource behaviour due toThe design implemented with efficiency in mind 
+The system shall use simple to understand commands for user operation andThe same will apply toThe querying and editing segments 
+The system shall allow capturing ofThe National ID for a personThe stand is issued to 
+The system shall allow capturing of stand details such as location district ward and stand number 
+The system shall allow council to selectThe location on Google maps or manually enter coordinates ofThe location ofThe stand 
+The system shall communicate withThe Django API to getThe corresponding Ethereum address ofThe entered National ID 
+The system shall create a transaction sent toThe Ethereum protocol 
+The transaction’s digital signatures are validated byThe Ethereum protocol
+The transaction data is validated byThe smart contract 
+The system user interface shall communicate withThe Blockchain Land Registry smart contract using web3js 
+The Blockchain Land Registry system smart contract storesThe data 
+The smart contract issues a token based onThe ERC721 interface for Ethereum blockchain 
+The smart contract issuesThe block member in whichThe transaction was mined in 
+The system shall promptThe user to identifyThemselves by supplying a username and password 
+The system shall allowThe administrator to assign roles to users 
+The system shall apply real-time monitoring of data being accessed 
+The system shall notifyThe administrator of who accessesThe system in case a data breach occurs 
+The system shall enable users such as medical practitioners to enter data intoThe system 
+The system shall allow data input intoThe system to be encrypted before being sent toThe database instance on our cloud server for storage 
+The system shall enable users to retrieveThe data on demand including in cases of emergency where it should be retrieved and decrypted before it can be accessed byThe medical practitioner 
+The system shall be highly usable to ensure that in cases of emergency records can be retrieved on demand 
+The system shall ensure that non-technical users like medical practitioners can interact with it with easy 
+The system shall be designed with ease of access in mind asThe data may be needed in emergency situations 
+The system shall allow that asThe number of patient records increases with time andThe capacity ofThe system to holdThese records must also increase asThe records increase  
+The system shall have high availability in such a way that it remains accessible online even during maintenance 
+The system operation shall be fast both in capturing details and retrieving data 
+The system shall ensure thatThe system records shall be encrypted and stored inThe cloud as cyphertext 
+The system processes such as encryption and decryption shall not slow downThe system 
+The system shall be deployed overThe cloud and accessible both onThe web and mobile platforms for portability 
+The system shall maintain audit logs 
+The system log data shall be maintained without burdeningThe users 
+The system shall allowThe administrator to log in to accessThe system 
+The system shall enable loading/ feeding video files for processing intoThe system 
+The system shall enable motion detection
+The system shall enable facial recognition 
+The system shall enable face identification through details about that person if he/she is an employee
+The system shall allow a new systems administrator to be able to use it without a steep learning curve 
+The system components shall be built with reusability so it can be integrated into other systems 
+The system shall processThe video footage in reasonable time 
+The system shall ensure integrity and consistency in all its processes 
+The system shall be able to correctly identify facial prints with subtle margins of error 
+The system shall guaranteeThe privacy of user data at all times 
+The system shall allow users to create a cloud account 
+The system shall allow people to connect toTheir accounts afterThey initially register withThe system and sign in to access it 
+The system shall allow users to answer questions onTheir profile afterThey are requested to fill in questions at registration which will be used as challenge questions when password is forgotten 
+The system shall allow users to upload data files of any type toTheir cloud accounts with a description of not less than 5 words 
+The system shall allow users to download files whenThey want to useThem upon answering correctlyThe randomly generated questions fromTheir profiles 
+The system shall allow authorised users to manageTheir files that is update and delete data fromTheir accounts 
+The system shall generate decoy files to supply to an intruder whenever a suspicious download is detected
+The system shall provide short response time onThe services offered 
+The system shall provide ease of use
+The system shall be clearly documented so as to allow easy maintenance on different environments on whichThe system will be installed 
+The system shall allow be compatible with various platforms 
+The system shall allow only authorised users to access information and it shall protect users’ data from intruders 
+The system shall allowThe student to experience single sign on acrossThe university’s web services 
+The system shall be able to allocate resources toThe actual student who has requestedThe service 
+The system shall be easy to use and adopt as students have to login only once 
+The system shall provide a secure student authentication and authorisation by using security SAML tokens containing assertions about a subject for communication between trusted parties 
+The system shall use symmetric key encryption AES and asymmetric encryption key onThe browser/client side to secure confidentiality of information 
+The system shall send notification texts on recipient’s mobile phone 
+The system shall distribute keys forThe RSA digital signature 
+The system shall use RFID scanner to captureThe details of every passenger upon boardingThe bus 
+The system shall provide a comprehensive web interface to be used to track buses onTheir routes 
+The system shall detect an accident upon impact and will automatically send an alert (SMS) to a designated phone 
+The system shall provide a verification procedure whereThe administrators will try to make contact withThe specific bus in order to verify whether an accident has indeed taken place andThe level of response required 
+The system shall make use of google maps to all administrators to identify and alert nearest emergency services 
+The performance ofThe system shall be measured byThe overall effectiveness ofThe system in terms of its reaction time and availability 
+The system shall be deployed on web platform and will require an internet connection 
+The system shall take initial Load time depending onThe strength ofThe internet connection which also depends onThe media from whichThe apps run from 
+The system shall provide an easy to use GUI for tracking 
+The system shall use simple easy to use devices for verification and alerting 
+The system shall be implemented for geo-fencing to ensure thatThe buses do not divert fromTheir scheduled routes 
+GPS tracking feature shall enable real-time fleet-management 
+The system shall be able to capture allThe data about an individual 
+The system shall processThe data received and generate an md5 hash ofThe data 
+The system shall generate a QR code withThe md5 hash 
+The system shall differentiate systems that represent different stages of life 
+The system shall report when a form of identityTheft is noticed 
+The system shall blacklist any user that has done identityTheft 
+The system shall perform well in an online environment and also can accept data faster thanThe traditional manual system 
+The system shall also allow multiple clients to login and book different appointments and allocate different time for each user 
+The system shall be usable and implemented on website and has an interactive interface 
+The system shall have visibly defined flow and buttons that showThe different functionalities thatThe user may require 
+The system shall be maintainable as it can be integrated with other systems easily can be modified or have its components reused on other platforms
+The system shall ensure confidentiality of vital personal information collected at allThe system’s controllers 
+The system shall ensure that personal information is not displayed toThe public but is encoded in a QR code 
+The system shall provideThe integrity service through use of md5 hash values to prevent unauthorised modification 
+The system shall thatThe information collected fromThe previous stage of life should be readily available in any stage and whenever it is required byThe rightful user 
+The system shall provide a user friendly and interactive interface that is easy to navigate 
+The system shall be responsive to user requests and process in real-time 
+The system shall be interactive and provide help information and guidance toThe users 
+The system shall hashThe passwords using HMAC 
+The system shall generate Using Time-based Passwords viaThe Google- Authenticator Application 
+The system shall authenticateThe user with username and password 
+The system shall allow a user to register and log in 
+The system shall validate user passwords 
+The system shall ensure thatThe password is verifiable wheneverThey want to log in 
+The system shall allow onlyThe legitimate user to modify stored information 
+The system shall provide functionality with ease-of-use 
+The system shall allowThe bank server to verifyThe credentials of users when logging in for a short period of time 
+The system server shall generateThe TOTP value that lasts forThe specified amount of time 
+The system generated TOTP shall be a unique passcode that changes after an interval of 30 seconds 
+The system shall enable password changing in a specified time
+The system shall enable fast transmission of information between bank server andThe dataset server 
+The system shall have an operational manual to guide users on how to useThe system 
+The system shall provide ease of use even to non-technical users 
+The system shall enable users to learn to useThe system with minimum training required 
+The system shall enable a visible watermark to be used together withThe email client 
+The system shall be given a platform to select a unique watermark that will be inserted onto a document to protect data by providing ownership toThe rightful people 
+The system shall allow a user to log into his or her own account providing his or her own email address and password 
+The system shall allow an authenticated user to insert a watermark on a document which will be in PDF format 
+The system shall prevent manipulation ofThe watermark by an unauthorised user 
+The system shall allow fast speed in embedding a watermark and sending it toThe intended recipient
+The system shall have an operation manual to guideThe users on how it works 
+The system shall provide an ease to use interface requiring minimum training 
+The system shall   provide authentication service for all users beforeThey can be allowed to embed a watermark through use of an email client 
+The system shall be able to be operated on various platforms 
+The system shall encrypt and decrypt files over a wireless connection 
+The system shall be able to do random check on connection 
+The system shall allow automatic locking after connection is lost
+The system shall be able to register wireless connection 
+The system shall authenticate all users
+The system shall be able to meet all workload with a short reaction time 
+The system shall provide guidance on how to secure a file 
+The system shall allow files to be accessible only to authorised personnel
+The system shall provide Two Factor Authentication 
+The system shall encrypt files using AES algorithm
+The system shall be able to filter outgoing traffic if it contains proxy related request 
+The system shall  be able to filter incoming traffic if it is from a proxy server 
+The system shall   be able to deny websites listed inThe database 
+The system shall notify administrators of a proxy requesting IP address or identity 
+The system shall  ensure thatThe firewall should be able to withstand any load of traffic given to it and be able to filter it efficiently 
+The system shall be user friendly to administrators 
+The system shall resist unauthorised accidental or unintended usage and provide access only to legitimate users 
+The system shall allow administrator to view IP address 
+The system shall  display message for blocked website to user 
+The system shall   notify administrator through SMS 
+The system shall  show warning to users 
+The system shall  allow administrator to make changes 
+The system shall be introduced in each representative’s mobile device to screenThe gadget’s applications and recordThe activities performed byThe gadget 
+The system shall analyseThe caught activities check for any approved utilisation and afterwards give a warning toThe framework head by transferringThe data onThe web 
+The system shall  allowThe framework executive to sign on toThe site keeping in mindThe end goal to seeThe warning messages 
+The system shall be reliably used on any device that meetsThe hardware and software requirements defined 
+The system shall  be compatible with any Android device 
+The system’s QoS shall guarantee its availability at  999% uptime
+The MedX system shall  be developed in Java which is platform independent making it portable 
+The system shall  guarantee confidentiality through encryption of stored data with AES 
+The system shall  use QR codes to facilitate access granting 
+The system shall  permit user credentials registration 
+The system shall  enable activation of credit or debit cards
+The system shall  enable buying patterns to be analysed
+The system shall  allow for anomalies to be curbed after detection
+The system shall perform user re-verification using AVS and distinct security questions 
+The system shall  allowThe time to react to toleratingThe exchange to happen or dismissing it hinderingThe card and cautioningThe head to be brief so as to advance an easy to understand framework 
+The framework shall  exhibit a high rate of work handling and that of administrations’ client from login duringThe exchange and client re-verification 
+The framework shall  be accessible wherever and whenever a client needs to make a purchase 
+The framework shall allow for a short information transmission 
+The system shall  allow for provision of good quality online services making it easy to use since an interactive GUI will be delivered 
+The system shall  provide mechanisms forThe security of online transactions 
+The system shall  restrict illegal sharing of video content protected by copyright providing a secure algorithm for downloading and playback 
+The system server shall  be able to encrypt video content before it is downloaded 
+The system shall ensure thatThe user can only download if registered withThe server 
+The system server shall be able to generate unique transaction IDs after every purchase or free download  
+The system shall   ensure thatThe transaction ID UUID and storage serial should be used for encryption byThe server and decryption byThe client 
+The system shall   ensure thatThe client generatesThe symmetric key used for encryption byThe server 
+The system shall enableThe client to decrypt video content to a virtual file and parseThe location to media players
+The system shall   enableThe virtual file to be deleted onceThe client application is closed Functionality
+The system encryption and decryption algorithms shall be fast enough to decryptThe video and provide it for playback inThe shortest time after a click  
+The system shall be easily integrated withThe available video players 
+The proposed algorithm shall  be able to be implemented by numerous legally operating online video 
+The system shall  give each user who purchases a copy of a video a lifetime access right to authentic copyThe video 
+The system shall deny access to unauthorised users to redistributeThe copyThey legally purchase 
+The system shall  distribute authentic copies of each supplied video 
+The system shall  encrypt and decrypt files using a wireless connection 
+The system shall  be able to make random check onThe connection 
+The system shall  lock automatically afterThe connection is lost 
+The system shall  be able to register wireless connection 
+The system shall be user friendly 
+The system shall offer user authentication before any user is granted access toThe services 
+The system shall offer confidentiality through encryption with AES 
+The system shall meet all workload with a fast response time while maintaining security 
+The system shall ensureThe wireless connection enables fast response time which isThe time it takes forThe mobile phone and laptop to connect to access files 
+The system shall not affectThe operation of any applications onThe laptop or mobile phone 
+The system shall be flexible and adapts to changes 
+The system shall be available to secureThe files from unauthorised users 
+The system shall provide guidance as to how to operate and manoeuvre through it and produce wanted results 
+The system shall  provide Two Factor Authentication 
+The system shall  provide an invisible digital watermark based on Discrete Wavelet Transformation 
+The system shall  encompass factors of complex computations robustness and security 
+The system shall  ensureThe digital watermark agency is able to dispatch agents collect and reportThe processed information fromThe visited hosts withinThe network 
+The system shall be able to guideThe agent’s movement by allowingThe digital watermark agency to take note ofThe reports and to create a mutual knowledgebase  
+The system’s digital watermark agency shall controlThe remote network as an administrator and that is whereThe agents are stored 
+The system shall allow that onceThe agents are being releasedThey should be able to searchThe watermarked images fromThe hosts connected withinThe network 
+The system shall requireThe agents to reportThe detected images toThe agency’s database 
+The system shall ensure thatThe watermark as an essential part ofThe data remains even after signal processing and data manipulation including any malicious activity 
+The system shall offer a high performance inThe time taken by agents on searchingThe watermarked image collecting and processing reports toThe agency 
+The system shall provide authentication by ensuring thatThe agents compareThe watermark keys onThe detected images withThe keys already stored inThe agency’s database 
+The system shall secureThe network by SSL to encrypt sensitive data before it travels within a network and decrypt it when it arrives at an agent server 
+The system shall ensure thatThe communication ofThe agents andThe agency or server is such that onlyThe registered agents can report toThe agency 
+The digital watermarking system shall be compatible will all operating systems 
+The system shall be able to sniffThe traffic to and fromThe network in real-time 
+The system shall analyseThe network traffic and detects intrusion attacks and threats toThe network 
+The system shall be able to warnThe network administrator aboutThe possible occurrence of an intrusion attack and provide information regarding that attack
+The system shall block traffic to and fromThe network that is identified to be potentially malicious 
+The system shall provide reports monthly regardingThe anomalies detected 
+The system shall provide visualisation inThe form of graphs 
+The system shall be able to monitorThe network in real-time 
+The system shall be able to be easily transfer from one hardware or software platform to another 
+The system shall guarantee reliability and resilient to failure 
+The system shall be developed to be available allThe time 
+The system shall be efficient as it will be able to do near real-time anomaly detection instead of batch processing giving results almost instantly 
+The system shall be able to detect novel attacks which current systems do not yet detect 
+The system shall not require constant updating of its signature as it will be learning on its own and updating its signatures on its own 
+The system shall allow access to authorised users only 
+The system shall show a panel for logs ofThe anomalies detected
+The system’s main screen shall include HELP and Static Analysis Tabs 
+TheIntrusionD system shall be compatible with every platform that can run a JAVA Virtual Machine 
+The system shall allow a member to spontaneously form a group of n signers using group public keys which associateThe group members 
+The system shall allow a user to sign a document on behalf ofThe group usingTheir secret key 
+The system shall allowThe message digest (message + signature) to be transmitted toThe recipient via email 
+The system shall allowThe recipient to verifyThe signature usingThe group public key so thatThey will be convinced that it actually came fromThe organisation withoutThe knowledge ofThe actual signer 
+The SAG system shall perform well in web environments 
+The system shall be able to adapt to all types of applications 
+The system shall be easy to use and also user-friendly 
+The system shall be able to predict potential operational performance bottlenecks and future scalability problems
+The system shall have good performance and resource behaviour 
+The system shall be easy to maintain as it shall be built following best practices in documentation complexity avoidance and good programming strategies 
+The system shall be easy to transfer from one environment to another including install ability
+The system shall ensure that only authorised users are granted access 
+The system shall enable stakeholders to come up with sound accurate and concrete decisions 
+The system shall allow multiple users to access it atThe same time 
+The system shall enable real-time responds to agents and users 
+The system shall generate performance reports 
+The system shall be user-friendly and easy to navigate 
+The system shall allow room for error recovery 
+The system shall be able to identify wrong input 
+The system shall have a quick response time to prevent unnecessary delays
+The system shall have log in and log out capabilities which can be seen asThe first line of security which most systems should possess for authentication and accountability purposes 
+The system shall provide imaging ability so as to make a copy ofThe information contained onThe mobile device which will be used duringThe forensics process asThe test data source
+The system shall have an extraction module that will be able to take out information fromThe image that has been created 
+The system shall have an analysis module that will use metadata contained withinThe extracted information to detect locational data so as to create a movement map from this information 
+The system shall require a larger memory size to increaseThe processing capability during imaging and extraction stages 
+The system shall provide reliability and fault tolerance through extensive stress testing 
+The system shall offer input validation
+The system shall ensure thatThe hashing and extraction modules are easy to use and have a user manual incorporated inThe system 
+The system shall ensure thatThe embedding module and scanning tool offer relatively good performance and resource behaviour due toThe implemented design
+The system shall employ good coding principles like loose coupling of modules for easy maintainance 
+The system shall be transferable to another platform with ease 
+The system’s hashing module shall use SHA-2 algorithm  
+The system shall have inputs of WAVE audio file message text public key and private key Functionality
+The system shall process all inputs to produce a WAVE audio file  Functionality
+The system shall produce encrypted payload andThe message signature 
+The system shall be expected to be responsive enough to show no perceived lag during file loading and information entry 
+The system shall not experience slowdowns during input/output and computationally intensive tasks such as encryption and embedding or extraction 
+The system shall have a clutter-free interface with well labelled buttons and selection components 
+The system shall ensure that each private key has to be encrypted with a password to keep it secure 
+The system shall ensure thatThe public key is left open and accessible toThe public domain 
+The system shall be able to detect fraudulent transactions in rea-time 
+The system shall be able to store transaction information  
+The system shall be able to send email and sms alerts of fraudulent transactions 
+The system shall be simple and user-friendly 
+The system shall allow for error recovery 
+The system shall have a self-explanatory user interface
+The system shall be fast with only an acceptable lag when multiple tasks are being processed 
+The system shall ensure that sensitive information of transaction details should be hashed inThe database in case of a data breach
+The system shall enforce that all users login beforeThey can accessThe system 
+The system shall offer error handling capabilities 
+The system shall enable authorised reversal of actions 
+The system shall maintain information on log in and log out for accountability 
+The system shall offer compression ability so as to save data usage time and storage space and also decompression option forThe file to be presentable or readable toThe end user
+The system shall enable encryption and decryption capabilities to protect files 
+The system shall allow file type filtering to avoidThe overloading ofThe normal flow information with unnecessary files 
+The system shall process files to be moved over toThe other end of a communication channel that is from one machine toThe other 
+The system shall be lightweight 
+The system shall be simple and easy to maintain 
+The system executable shall be deployable on any platform 
+The system shall be installed in every employee’s mobile phone device to monitorThe device apps and recordThe activities onThe device 
+The system shall analyseThe captured activities andThen give a notification toThe system administrator by uploadingThe information onThe web 
+The system shall enableThe systems administrator to log on toThe website in order to viewThe notification messages 
+The system shall be reliable and compatible with any hardware and software compatible with Android devices 
+The system shall filter harmful websites against URLs of known harmful websites 
+The system shall collect and analyse data thatThe child is typing and if it captures certain keywords or a continuous sequence of expletive it should send an alert through text toThe parent 
+The system shall prevent installation or removal of any applications 
+The system shall generate and send periodic logs toThe parent’s smartphone 
+The system shall prevent any media from being sent or received using Bluetooth 
+The system shall be able to generate periodic logs as well as collect and analyse data alerting parents whenever certain keywords are typed 
+The system shall be up and running allThe time as long asThe smartphone is in use to monitorThe child’s activities 
+The system shall run inThe background and should not affect overall functioning ofThe smartphone 
+The system shall be ease to transfer from one platform to another 
+The system shall be able to adapt as new URLs and websites are added to those filtered asThey emerge 
+The system shall provide guidance toThe parent on how to use it
+The system shall allow a user who has a Twitter account to create an application to access tokens 
+The system shall be able to connect to Twitter Streaming API 
+The system shall be able to extract raw data from Twitter in real-time 
+The system shall be able to pre-processThe unstructured data into meaningful information and match withThe existing keywords inThe database 
+The system shall apply a classification algorithm to classify processed tweets matching withThe labelled tweets inThe tweets corpus 
+The system shall be used byThe government officials to bring relevant information toThe user unlikeThe normal web search 
+The system shall be reliably used on any devices that meet hardware and software requirements stated 
+The system shall be scalable and able to handle growth in data flow leveragingThe Twitter API capabilities 
+The system shall be compatible with all operating systems without demanding too many resources 
+The system shall ensureThe database containing keywords shall be protected against SQL Injection 
+The system shall be capable of Malware detection and classify of both known and unknown Malware intoTheir respective families 
+The system shall be able to detect and combat both existing and new Malware 
+The system shall have a data collection process allowing for benign and malicious data to be collected and submitted intoThe system for Malware detection  
+The system shall have an analyser which will executeThe Malware files to inspectThe type 
+The system’s Malware analyser shall send allThe files andTheir logs toThe main server atThe end ofThe analysis process 
+The system’s classification process shall classify identified Malware into its respective families 
+The system’s classification process shall generate a report of whatThe effects ofThe malware activity during execution 
+The system’s classification process shall be developed with dependability in mind so as to produce accurate results through reduced margin of false negatives and false positives 
+The system shall be maintainable as it is built with three modules with commands that avoid violating coding principles 
+The system services shall be accessible offline since it will be a desktop application 
